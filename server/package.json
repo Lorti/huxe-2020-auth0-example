@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "format": "prettier server.js --write --single-quote"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "jwks-rsa": "^1.7.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
