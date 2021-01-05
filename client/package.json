@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.6.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5"
   },
