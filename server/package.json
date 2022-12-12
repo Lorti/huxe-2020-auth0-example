@@ -6,7 +6,7 @@
     "format": "prettier server.js --write --single-quote"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "jwks-rsa": "^1.7.0"
   },
